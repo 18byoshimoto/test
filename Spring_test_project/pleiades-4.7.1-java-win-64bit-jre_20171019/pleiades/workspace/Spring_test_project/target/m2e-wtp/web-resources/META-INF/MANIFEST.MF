@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring_test_project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: admin
+Implementation-Vendor-Id: jp.co.axiz
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Spring_test_project
+Created-By: Maven Integration for Eclipse
+
